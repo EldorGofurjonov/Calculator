@@ -1,0 +1,7 @@
+C:\Users\Eldorbek\source\repos\masala10\bin\Debug\masala10.exe.config
+C:\Users\Eldorbek\source\repos\masala10\bin\Debug\masala10.exe
+C:\Users\Eldorbek\source\repos\masala10\bin\Debug\masala10.pdb
+C:\Users\Eldorbek\source\repos\masala10\obj\Debug\masala10.csproj.AssemblyReference.cache
+C:\Users\Eldorbek\source\repos\masala10\obj\Debug\masala10.csproj.CoreCompileInputs.cache
+C:\Users\Eldorbek\source\repos\masala10\obj\Debug\masala10.exe
+C:\Users\Eldorbek\source\repos\masala10\obj\Debug\masala10.pdb
